@@ -1,5 +1,5 @@
-const removeSecret = require("../removeSecret");
-const { assert } = require("chai");
+const removeSecret = require("/Users/medhaniesolomon/programming/alchemy_bootcamp/data_storage/objects/removeSecret.js");
+import { assert } from "chai";
 
 describe("removeSecret", () => {
   it("should remove the secret", () => {
