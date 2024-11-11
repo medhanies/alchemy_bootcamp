@@ -80,4 +80,4 @@ const fetchPokemon = async (id) => {
     console.error(err);
   }
 };
-fetchPokemon();
+fetchPokemon(20);
