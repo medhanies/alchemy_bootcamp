@@ -10,3 +10,5 @@ function fizzBuzz(numbers) {
   }
   return string;
 }
+
+console.log(fizzBuzz([15, 76, 59, 40, 66, 33, 150]));
